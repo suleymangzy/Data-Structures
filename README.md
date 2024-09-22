@@ -1,7 +1,7 @@
 # 🚀 Data Structures & Algorithms
 
 Welcome to the **Data Structures & Algorithms** repository! 🌟  
-This project showcases practical implementations of key data structures and algorithms in **Java** and **C++**.
+This project showcases practical implementations of key data structures and algorithms in **Java** and.
 
 ---
 
